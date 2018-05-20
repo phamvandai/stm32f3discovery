@@ -1,0 +1,3 @@
+tasks.c:21:6:DefaultTask	56	static
+tasks.c:51:6:ProcessCmdTask	8	static
+tasks.c:83:6:SwTmrCallback	0	static

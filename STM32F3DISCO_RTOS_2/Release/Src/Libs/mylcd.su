@@ -1,0 +1,8 @@
+mylcd.c:19:13:__LCD_Wait	8	static
+mylcd.c:29:13:__LCD_Pulse	0	static
+mylcd.c:55:13:__LCD_SendByte	8	static
+mylcd.c:134:6:myLCD_GotoXY	0	static
+mylcd.c:162:6:myLCD_Clear	8	static
+mylcd.c:98:6:myLCD_Init	40	static
+mylcd.c:173:6:myLCD_PrintStr	8	static
+mylcd.c:186:6:myLCD_PutChar	0	static

@@ -1,0 +1,4 @@
+cycle_counter.c:8:6:reset_timer	0	static
+cycle_counter.c:15:6:start_timer	0	static
+cycle_counter.c:20:6:stop_timer	0	static
+cycle_counter.c:25:14:getCycles	0	static

@@ -1,0 +1,2 @@
+tests.c:20:6:DMA1_Test	24	static
+tests.c:72:6:ADC2_Test	8	static
