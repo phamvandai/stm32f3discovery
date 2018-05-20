@@ -9,7 +9,7 @@ Setup environment:
 	+ ADC2 with channel 1 (PA4) & channel 6 (PC0)
 	+ USART1 (PC4 & PC5) 
 -SW:
-	+ STM32CubeMX
+	+ STM32CubeMX with STM32F3CubeMX firmware package
 	+ Atollic TrueSTUDIO for STM32
 	+ FreeRTOS 
 	
