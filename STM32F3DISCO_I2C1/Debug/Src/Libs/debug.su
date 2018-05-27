@@ -1,8 +1,0 @@
-debug.c:12:6:debug_outbyte	0	static
-debug.c:28:13:printchar	0	static
-debug.c:41:12:prints	32	static
-debug.c:74:12:printi	48	static
-debug.c:117:12:print	56	static
-debug.c:18:6:debug_print	8	static
-debug.c:183:5:debug_printf	8	static
-debug.c:189:5:debug_sprintf	12	static
