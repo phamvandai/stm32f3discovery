@@ -1,6 +1,7 @@
 # STM32F3 Discovery with DC motor PID control 
 
 -Hardware: 
+
 	+ STM32F3 Discovery board, 
 	+ DC motor with encoder (888 impulses per round), 
 	+ l298 motor driver, 
