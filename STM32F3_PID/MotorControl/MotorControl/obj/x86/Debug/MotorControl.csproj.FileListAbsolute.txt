@@ -1,0 +1,9 @@
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\obj\x86\Debug\MotorControl.MainForm.resources
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\obj\x86\Debug\MotorControl.Properties.Resources.resources
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\obj\x86\Debug\MotorControl.csproj.GenerateResource.Cache
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\bin\Debug\MotorControl.exe
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\bin\Debug\MotorControl.pdb
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\obj\x86\Debug\MotorControl.exe
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\obj\x86\Debug\MotorControl.pdb
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\obj\x86\Debug\MotorControl.csprojResolveAssemblyReference.cache
+D:\_ARM\CubeMX Projects\STM32Cube_FW_F3_V1.2.0\MyProjects\RD_Project\MotorControl\MotorControl\bin\Debug\MotorControl.exe.config
