@@ -1,0 +1,9 @@
+stm32f3_disco_sdspi_io.c:130:13:SPIx_Init	48	static
+stm32f3_disco_sdspi_io.c:51:6:DMA1_Channel4_IRQHandler	0	static
+stm32f3_disco_sdspi_io.c:59:6:DMA1_Channel5_IRQHandler	0	static
+stm32f3_disco_sdspi_io.c:69:6:SPI2_IRQHandler	0	static
+stm32f3_disco_sdspi_io.c:74:6:HAL_SPI_TxRxCpltCallback	0	static
+stm32f3_disco_sdspi_io.c:305:6:SD_IO_CSState	0	static
+stm32f3_disco_sdspi_io.c:324:6:SD_IO_WriteReadData	16	static
+stm32f3_disco_sdspi_io.c:335:9:SD_IO_WriteByte	32	static
+stm32f3_disco_sdspi_io.c:269:6:SD_IO_Init	40	static

@@ -1,0 +1,9 @@
+stm32f3_disco_sdspi.c:920:9:SD_ReadData	8	static
+stm32f3_disco_sdspi.c:711:22:SD_SendCmd	40	static
+stm32f3_disco_sdspi.c:941:9:SD_WaitData.constprop	8	static
+stm32f3_disco_sdspi.c:218:9:BSP_SD_Init	40	static
+stm32f3_disco_sdspi.c:238:9:BSP_SD_GetCardInfo	56	static
+stm32f3_disco_sdspi.c:273:9:BSP_SD_ReadBlocks	48	static
+stm32f3_disco_sdspi.c:358:9:BSP_SD_WriteBlocks	56	static
+stm32f3_disco_sdspi.c:442:9:BSP_SD_Erase	32	static
+stm32f3_disco_sdspi.c:479:9:BSP_SD_GetCardState	24	static
